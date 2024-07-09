@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @zeitgeist352 Also known as Ege, CS student in Bilkent
-- 👀 I’m interested in Machine learning and AI
-- 🌱 I’m currently learning Java and also HTML
+- 👋 Hi, I’m @zeitgeist352, CS student in Bilkent
 - 📫 How to reach me onurege20@hotmail.com or ege.yakar@ug.bilkent.edu.tr
 
 <!---
