@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Onur, CS student in Bilkent
+- 👋 Hi, I’m Onur, CS Junior in Bilkent
 - 📫 Reach me via onurege20@hotmail.com or ege.yakar@ug.bilkent.edu.tr
 
 <!---
