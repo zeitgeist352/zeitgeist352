@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Onur, CS Junior in Bilkent
 - 📫 Reach me via onurege20@hotmail.com or ege.yakar@ug.bilkent.edu.tr
 
-- (https://komarev.com/ghpvc/?username=zeitgeist352&color=blue)
+![](https://komarev.com/ghpvc/?username=zeitgeist352&color=blue)
 
 
 <!---
